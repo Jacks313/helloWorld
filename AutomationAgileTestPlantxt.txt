@@ -1,0 +1,58 @@
+
+1. Sprint Duration :- 4 weeks
+
+** Scrum Meeting
+
+1st Week:-
+2. Groom :- Before the Sprint (pre sprint plan)
+3. Sprint planning :- Explain all the agenda of meeting and person involve
+4. User Analysis
+5. Groom
+6.Test case Design
+
+2nd Week:-
+1. Peer Review :- Cellegue, TL, PO
+2. Regression Test Cases Design and Review
+
+3.***Execution of Test Script developed in last sprint***
+
+3rd Week:-
+1. we got the build
+2. Sanity
+3. Test Case Execution of current sprint stories
+4. Defects Log
+5. Regression Test Case Execution
+6. ****Test Script Development of last Sprint Stories1****
+
+4th Week:-
+
+1. UAT :- Customer, Dev, Testers
+2. Defect Report:- Explain (Responsible)
+3. Test Summary:- Explain (Responsible)
+4. Test Closer :- Explain (Responsible)
+
+1. Sprint Review :- Explain agenda
+2. Sprint Retro :- Agenda and Person involve
+
+On Last Day sprint :- Next Sprint
+1. Automate Test Case:- Test Script Develop
+2. Test Script Execution
+3. Automation Test Cases :- Received from Manual, Sort from manual
+4. Reports (Extent Reporter)
+5. Log files  
+
+
+
+just 
+
+
+
+
+
+
+
+
+
+
+
+
